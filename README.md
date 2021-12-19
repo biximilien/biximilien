@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**biximilien/biximilien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a professional, I'm a software developer at [AlleyCorp Nord](https://alleycorp.com/nord/).
+My current role is assisting [Mixo](https://www.mixo.co/) as a backend developer.
 
-Here are some ideas to get you started:
+As an enthusiast, I love working on my own software projects.
+- 🔭 I’m currently working on DIY Home Automation & Crypto related projects
+- 🌱 I’m currently learning Blockchains (Ethereum), Python & Go
+- 👯 I’m looking to collaborate on Ruby projects
+- 🤔 I’m looking for help with Python & Go
+- 💬 Ask me anything about Ruby ❤️
+- 📫 How to reach me: Use my e-mail
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be an entrepreneur. Then I took an arrow in the knee...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> In honor of my father, I support Lupus Canada with monthly donations.
+> Please consider donating to [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/)
