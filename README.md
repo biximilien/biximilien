@@ -1,6 +1,6 @@
 ### Hi friends 🤖
 
-As a professional, I'm a senior software developer at [AlleyCorp Nord](https://alleycorp.com/nord/).
+As a professional, I'm a senior software developer at [Auxa Health](https://auxahealth.com).
 
 As an enthusiast, I love to spend time on my own software projects.
 
