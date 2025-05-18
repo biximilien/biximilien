@@ -4,8 +4,10 @@ I'm a professional software developer, currently working as a senior software de
 
 As an enthusiast, I love to spend time on my own software projects. This is typically how I stay on top of all the shiny new technologies. You can find most of my experiments in my git repositories.
 
-- 🌱 I’m currently learning TypeScript with frameworks such Next.js & React, and experimenting with Bun and Deno
-- 💬 I have a lot of experience with Ruby and Rails, feel free to ask me anything about Ruby
+- 📚 Experienced Senior Developer profile with languages such as Ruby, Python, Go, JavaScript & TypeScript
+- 🌱 Currently learning Rust by experimenting with Tauri
+- 🤖 AI & ML enthusiast, I've been experimenting LLMs such as ChatGPT, Llama & Deepseek with Ollama & LangChain
+- 💬 Experienced developer with Ruby and Rails, feel free to ask me anything about Ruby ❤️
 - 📫 How to reach me: Feel free to reach out to me using my either my e-mail address or LinkedIn
 - ⚡ Fun fact: I used to be an entrepreneur. Then I took an arrow in the knee...
 
