@@ -1,8 +1,10 @@
 ### Hi friends and welcome to my Github profile
 
-I'm a professional software developer, currently working as a senior software developer at [Auxa Health](https://auxahealth.com).
+I'm a professional software engineer, currently working as a senior software engineer role at [Auxa Health](https://auxahealth.com).
 
-As an enthusiast, I love to spend time on my own software projects. This is typically how I stay on top of all the shiny new technologies. You can find most of my experiments in my git repositories.
+I love to spend time on my own software projects. This is typically how I stay on top of all those shiny new technologies. You can find most of my experiments in my git repositories.
+
+I'm always happy to connect with other tech enthusiasts, feel free to reach out on my e-mail.
 
 - 📚 Experienced Senior Developer profile with languages such as Ruby, Python, Go, JavaScript & TypeScript
 - 🌱 Currently learning Rust by experimenting with Tauri
