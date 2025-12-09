@@ -6,8 +6,7 @@ I love to spend time on my own software projects. This is typically how I stay o
 
 I'm always happy to connect with other tech enthusiasts, feel free to reach out on my e-mail.
 
-- 📚 Experienced Senior Developer profile with languages such as Ruby, Python, Go, JavaScript & TypeScript
-- 🌱 Currently learning Rust by experimenting with Tauri
+- 📚 Experienced Senior Software Engineer profile with languages such as Ruby, Python, Go, JavaScript & TypeScript
 - 🤖 AI & ML enthusiast, I've been experimenting LLMs such as ChatGPT, Llama & Deepseek with Ollama & LangChain
 - 💬 Experienced developer with Ruby and Rails, feel free to ask me anything about Ruby ❤️
 - 📫 How to reach me: Feel free to reach out to me using my either my e-mail address or LinkedIn
