@@ -1,6 +1,6 @@
 ### Hi friends and welcome to my Github profile
 
-I'm a professional software engineer, currently working as a senior software engineer role at [Auxa Health](https://auxahealth.com).
+I'm a 15 years of experience software engineer, currently working as a senior software engineer at [Auxa Health](https://auxahealth.com).
 
 I love to spend time on my own software projects. This is typically how I stay on top of all those shiny new technologies. You can find most of my experiments in my git repositories.
 
