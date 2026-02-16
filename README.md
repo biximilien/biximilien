@@ -1,16 +1,19 @@
-### Hi friends and welcome to my Github profile
+### Hi, I'm Bix
 
-I'm a 16 YoE senior software engineer, currently looking for a new role!
+Backend-focused Senior Software Engineer with 10+ years of experience building scalable backend systems, data pipelines, and cloud-native platforms.
 
-I love to spend time on my own software projects. This is typically how I stay on top of all those shiny new technologies. You can find most of my experiments in my git repositories.
+I enjoy working on personal projects to explore new technologies and deepen my understanding of distributed systems, AI-driven workflows, and backend architecture. Most of my experiments and prototypes live here on GitHub.
 
-I'm always happy to connect with other tech enthusiasts, feel free to reach out on my e-mail.
+#### Core interests:
 
-- 📚 Experienced Senior Software Engineer profile with languages such as Ruby, Python, Go, JavaScript & TypeScript
-- 🤖 AI & ML enthusiast, I've been experimenting LLMs such as ChatGPT, Llama & Deepseek with Ollama & LangChain
-- 💬 Experienced developer with Ruby and Rails, feel free to ask me anything about Ruby ❤️
-- 📫 How to reach me: Feel free to reach out to me using my either my e-mail address or LinkedIn
-- ⚡ Fun fact: I used to be an entrepreneur. Then I took an arrow in the knee...
+- Backend engineering (Ruby, Python, Go, TypeScript)
+- Distributed systems & event-driven architectures
+- Data pipelines and reliability engineering
+- Productionizing LLM-based systems (Ollama, LangChain, retrieval workflows)
+
+If you’re working on interesting backend or data problems, I’m always open to thoughtful technical conversations.
+
+📫 Reach me via email or LinkedIn.
 
 > In honor of my father, I support Lupus Canada with monthly donations.
-> Please consider donating to [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/)
+> Please consider supporting [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/)
