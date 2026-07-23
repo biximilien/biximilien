@@ -22,5 +22,7 @@ I’m particularly interested in problems involving scale, data integrity, and s
 If you're working on technically challenging backend or data problems, feel free to reach out.
 📫 Email or LinkedIn
 
+I'm currently looking for a new role, if you're hiring please reach out to me.
+
 > In honor of my father, I support Lupus Canada with monthly donations.
 > Please consider supporting [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/)
