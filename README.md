@@ -1,28 +1,36 @@
 ### Hi, I'm Bix
 
-Senior Software Engineer (16 YoE) focused on backend systems, data pipelines, and cloud-native architecture.
+Senior Software Engineer with 16 years of experience building backend systems, data pipelines, and cloud-native platforms.
 
-I design and build scalable, reliable systems across distributed environments, with a particular interest in data-heavy workflows and production-grade infrastructure.
+I specialize in taking complex backend and data problems from architecture through production, particularly in startup and health-tech environments.
 
-Most of my latest work consists of experiments and prototypes around:
+Recent work includes:
 
-- LLM-driven systems and retrieval workflows
-- Backend architectures and service design
-- Data processing and pipeline reliability
+- Designing distributed backend systems in Python, Go, TypeScript, and Ruby
+- Building event-driven architectures and high-volume data pipelines on AWS
+- Developing healthcare interoperability systems using FHIR and clinical terminology standards
+- Taking LLM/NLP systems from prototype to multi-tenant production services
+- Improving scalability, reliability, observability, and performance of production systems
 
-#### Areas of focus:
+#### Areas I work in
 
-- Backend engineering (Ruby, Python, Go, TypeScript)
-- Distributed systems & event-driven architectures
-- Data pipelines, ETL, and reliability engineering
-- Productionizing LLM systems (Ollama, LangChain, RAG patterns)
+- Backend & distributed systems
+- Data engineering, ETL, and pipeline architecture
+- AWS and cloud-native infrastructure
+- Event-driven systems
+- Healthcare interoperability and FHIR
+- Applied LLM/NLP systems
+- System design and technical architecture
 
-I’m particularly interested in problems involving scale, data integrity, and system reliability.
+#### Technologies
 
-If you're working on technically challenging backend or data problems, feel free to reach out.
-📫 Email or LinkedIn
+`Ruby` `Python` `Go` `TypeScript` `Rails` `AWS` `Docker` `PostgreSQL`
+`Spark` `Luigi` `Pandas` `FHIR` `SQS` `SNS` `Lambda` `ECS`
+`LLMs` `RAG` `LangChain` `Ollama`
 
-I'm currently looking for a new role, if you're hiring please reach out to me.
+I'm particularly interested in backend and data problems involving scale, reliability, data integrity, and complex domain models.
+
+I'm currently looking for Senior or Staff-level software engineering opportunities, preferably focused on backend, platform, or data engineering.
 
 > In honor of my father, I support Lupus Canada with monthly donations.
-> Please consider supporting [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/)
+> Please consider supporting [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/).
