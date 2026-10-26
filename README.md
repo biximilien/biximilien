@@ -1,4 +1,4 @@
-### Hi, I'm Bix
+### Hi, I'm Maxime but everyone calls me Bix
 
 Senior Software Engineer with 16 years of experience building backend systems, data pipelines, and cloud-native platforms.
 
@@ -26,11 +26,9 @@ Recent work includes:
 
 `Ruby` `Python` `Go` `TypeScript` `Rails` `AWS` `Docker` `PostgreSQL`
 `Spark` `Luigi` `Pandas` `FHIR` `SQS` `SNS` `Lambda` `ECS`
-`LLMs` `RAG` `LangChain` `Ollama`
+`LLMs` `RAG` `LangChain`
 
 I'm particularly interested in backend and data problems involving scale, reliability, data integrity, and complex domain models.
-
-I'm currently looking for Senior or Staff-level software engineering opportunities, preferably focused on backend, platform, or data engineering.
 
 > In honor of my father, I support Lupus Canada with monthly donations.
 > Please consider supporting [Lupus Canada](https://lupuscanada.org/get-involved/ways-to-donate/).
